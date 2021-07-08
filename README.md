@@ -36,7 +36,7 @@ class Source
   end
 
   def current_location
-    'Nashbille, TN'
+    'Nashville, TN'
   end
 
   def next_location
