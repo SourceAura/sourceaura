@@ -42,6 +42,7 @@ class Source
   def initialize
     @name = 'Isreal Maxwell'
     @age = 'grown'
+    @pronouns = 'him/his'
     @work = 'Freelance - Remote/Contract'
     @education = [ 'Colorado Technical University' ]
     @hobbies = [ 'poetry', 'basketball', 'cooking' ]
