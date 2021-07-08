@@ -9,6 +9,6 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with Frontend Dev tips and also ux/ui
 - 💬 Ask me anything really...
-- 📫 How to reach me: sourceaura.dev@gmail.com
+- 📫 [How to reach me:](sourceaura.dev@gmail.com)
 - 😄 Pronouns: he/him/his
 <!-- - ⚡ Fun fact: ... -->
