@@ -1,11 +1,15 @@
 <h1 align="center">🌹 - Namaste...</h1>
 
 <p align="center">
-<h3>🫀 🫁 🧠</h3>
+🫀 🫁 🧠
 </p>
 
 <p align="center">
-🌱  An ever budding Front-End/Software Dev. 
+🌱  
+</p>
+
+<p align="center">
+An ever budding Front-End/Software Dev. 
 </p>
 
 <p align="center">
