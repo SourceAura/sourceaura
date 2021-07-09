@@ -22,7 +22,6 @@ When I'm not coding I'm usually writing poetry 🖊, painting 🎨, or practicin
 
 <br>
 
-<br>
 <p align="center"> 
 <h3>...if i were a gem... </h3>
 </p>
@@ -55,8 +54,6 @@ class Source
   end
 end
 ```
-
-<br>
 
 <br>
 
