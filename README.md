@@ -1,12 +1,17 @@
 <h1 align="center">🌹 - Namaste...</h1>
 
 <p align="center">
-🫀🫁🧠
+<h3>🫀 🫁 🧠</h3>
 </p>
 
 <p align="center">
-A Frontend Dev. With an eye for accessibility. || :wheelchair:  
+🌱  An ever budding Front-End/Software Dev. 
 </p>
+
+<p align="center">
+ With an eye for multi-user accessibility. || :wheelchair:  
+</p>
+
 <p align="center"> 
 When I'm not coding I'm usually writing poetry 🖊, painting 🎨, or practicing guitar 🎸. 
 </p>
