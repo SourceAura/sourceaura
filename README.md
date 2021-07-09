@@ -1,6 +1,10 @@
 <h1 align="center">🌹 - Namaste...</h1>
 
 <p align="center">
+🫀🫁🧠
+</p>
+
+<p align="center">
 A Frontend Dev. With an eye for accessibility. || :wheelchair:  
 </p>
 <p align="center"> 
@@ -9,14 +13,9 @@ When I'm not coding I'm usually writing poetry 🖊, painting 🎨, or practicin
 
 <br>
 
-
-<p>
-
-</p>
-
 <br>
 <p align="center"> 
-<h3>How I'd define myself...literally</h3>
+<h3>...if i were a gem... </h3>
 </p>
 
 ```ruby
