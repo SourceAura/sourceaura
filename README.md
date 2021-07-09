@@ -1,24 +1,23 @@
 <h1 align="center">🌹 - Namaste...</h1>
 
 <p align="center">
-A Frontend Dev. With an eye for accessibility.   
+A Frontend Dev. With an eye for accessibility. :wheelchair: || ♿️ 
 </p>
 <p align="center"> 
-When I'm not coding I'm usually writing poetry, painting, or practicing guitar. 
-</p>
-
-<br>
-### Tools - tbc
-
-<p> 
-
-- <code>
-
+When I'm not coding I'm usually writing poetry 🖊, painting 🎨, or practicing guitar 🎸. 
 </p>
 
 <br>
 
+
+<p>
+
+</p>
+
+<br>
+<p align="center"> 
 <h3>How I'd define myself...literally</h3>
+</p>
 
 ```ruby
 class Source
