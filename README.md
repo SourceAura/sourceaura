@@ -13,7 +13,7 @@ An ever budding Front-End/Software Dev.
 </p>
 
 <p align="center">
- With an eye for multi-user accessibility. || :wheelchair:  
+ With an eye for multi-user accessibility. - :wheelchair:  
 </p>
 
 <p align="center"> 
