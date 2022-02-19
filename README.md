@@ -19,7 +19,7 @@ An ever budding Front-End/Software Dev.
 <p align="center"> 
 When I'm not explore code and things. 
 </p>
-<p>
+<p align="center">
 I'm usually writing poetry 🖊, painting 🎨, or practicing guitar 🎸. 
 </p>
 
