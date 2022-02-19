@@ -26,7 +26,7 @@ I'm usually writing poetry 🖊, painting 🎨, or practicing guitar 🎸.
 <br>
 
 <p align="center"> 
-<h3>...if i were a gem... </h3>
+<h3>...if i were a gem... :ruby: </h3>
 </p>
 
 ```ruby
