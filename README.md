@@ -26,7 +26,7 @@ I'm usually writing poetry 🖊, painting 🎨, or practicing guitar 🎸.
 <br>
 
 <p align="center"> 
-<h3>...if i were a gem... :ruby: </h3>
+<h3>...if i were a gem...</h3>
 </p>
 
 ```ruby
@@ -50,7 +50,7 @@ class Source
 
   def currently
     {
-      enrolled: 'Vue - The Complete Guide (w/ Router, Vuex, Composition API) @ Udemy',
+      enrolled: '...learning the ways of Flow...through Cadence...',
       reading: 'Siddhartha by Hermann Hesse',
       tinkering: 'Spotify API and GoLang'
      }
@@ -79,7 +79,5 @@ end
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
-<!-- [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sy@mangotree.dev)](mailto:sy@mangotree.dev) -->
 
 </div>
