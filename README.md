@@ -1,5 +1,29 @@
-<h1 align="center">🌹 - Namaste...</h1>
+<div align="center">
+<img width="100%" height = "250px" src="https://pbs.twimg.com/profile_banners/166877175/1632103055/1500x500" alt="cover" />
+</div>
 
+<h1 align="center">
+ <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>  
+ 
+  <h1 align="center">Namaste, Fellow < Developers/ >!</h1>
+ </h1>
+<p align='center'>
+ 
+ <div align="center"> 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SourceAura.SourceAura)
+
+  <div/>
+</p>
+<div size='16px' align="center"> My name is SourceAura. 
+ <br>
+:smile: Thank You for taking the time to view my GitHub Profile 🙏 
+</div>
+
+<h2 align="center"> 🌹 - About Me  </h2>
+  <br>
+
+ <br>
 <p align="center">
 🫀 • 🫁 • 🧠
 </p>
@@ -9,7 +33,7 @@
 </p>
 
 <p align="center">
-An ever budding Front-End/Software Dev. 
+An ever budding Front-End/Software Designer. 
 </p>
 
 <p align="center">
@@ -23,61 +47,54 @@ When I'm not exploring code and things.
 I'm usually writing poetry 🖊, painting 🎨, or practicing guitar 🎸. 
 </p>
 
+
+  <br>
+  <br>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
+- 🔭 Currently working on my personal website/blog. [Nuxt3 - Tailwind]
+
+- 🌱 Currently learning ...Flow/Cadence.  
+
+- 🤝  Looking to collaborate with/on anything involving/evolving The expansion of Web(3) technologies.  
+
+- 💬 Would to discuss Freelancing Opportunites & Open Source and am here to help whatever ways I may be able to. 
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/SourceAura?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/SourceAura?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
+<a href= https://github.com/SourceAura?tab=repositories&q=&type=&language=vuejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg'> </a>
+<a href= https://github.com/SourceAura?tab=repositories&q=&type=&language=nuxtjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nuxtjs.svg'> </a>
+<a href= https://github.com/SourceAura?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
+
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.twitter.com/SourceAura'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'sourceaura.netlify.app'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://www.github.com/SourceAura'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
+
+<h2> Things I worked on last week:  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@SourceAura&compact=True"/>
+</a>
 <br>
 
-<p align="center"> 
-<h3>...if i were a gem...</h3>
-</p>
 
-```ruby
-class Source
-  def initialize
-    @name = 'Isreal Maxwell'
-    @age = 'grown'
-    @pronouns = 'him/his'
-    @work = 'Freelance - Remote/Contract'
-    @education = [ 'Colorado Technical University' ]
-    @hobbies = [ 'poetry', 'basketball', 'cooking' ]
-  end
+<h2> GitHub Stats: <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
-  def current_location
-    'Nashville, TN'
-  end
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=SourceAura&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SourceAura&theme=dark" />
+</a>
 
-  def next_location
-    '...to infinity and then beyound.'
-  end
+<h2> Programming Humor <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
-  def currently
-    {
-      enrolled: '...learning the ways of Flow...through Cadence...',
-      reading: 'Siddhartha by Hermann Hesse',
-      tinkering: 'Spotify API and GoLang'
-     }
-  end
-end
-```
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
+
 
 <br>
-
-<div align="center">
-
-<img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/>
-<img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS-black.svg?style=for-the-badge&logo=NuxtJS&logoColor=white"/>
-<!--  -->
-<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<!--  -->
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<!--  -->
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<!--  -->
-<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
-
-<img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
-</div>
+<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
