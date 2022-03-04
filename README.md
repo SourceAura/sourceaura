@@ -7,11 +7,11 @@
  
   <h1 align="center">Namaste, Fellow < Developers/ >!</h1>
  </h1>
-<p align='center'>
+<div align='center'>
 
 [![wakatime](https://wakatime.com/badge/user/bb48951c-a1a6-4802-96ce-16ca388c81f7/project/2b909a93-a0c4-4fef-b6cf-f1e3d6db5721.svg)](https://wakatime.com/badge/user/bb48951c-a1a6-4802-96ce-16ca388c81f7/project/2b909a93-a0c4-4fef-b6cf-f1e3d6db5721)
 
-</p>
+</div>
 <div size='16px' align="center"> My name is SourceAura. 
  <br>
 :smile: Thank You for taking the time to view my GitHub Profile 🙏 
