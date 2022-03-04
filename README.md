@@ -67,6 +67,8 @@ I'm usually writing poetry 🖊, painting 🎨, or practicing guitar 🎸.
 <a href= https://github.com/SourceAura?tab=repositories&q=&type=&language=vuejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg'> </a>
 <a href= https://github.com/SourceAura?tab=repositories&q=&type=&language=nuxtjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nuxtjs.svg'> </a>
 <a href= https://github.com/SourceAura?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
+ <a>[![wakatime](https://wakatime.com/badge/user/bb48951c-a1a6-4802-96ce-16ca388c81f7/project/2b909a93-a0c4-4fef-b6cf-f1e3d6db5721.svg)](https://wakatime.com/badge/user/bb48951c-a1a6-4802-96ce-16ca388c81f7/project/2b909a93-a0c4-4fef-b6cf-f1e3d6db5721)
+ </a>
 
 
 <h2> Link with Me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
@@ -77,7 +79,6 @@ I'm usually writing poetry 🖊, painting 🎨, or practicing guitar 🎸.
 <h2> Things I worked on last week:  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 
  
-[![wakatime](https://wakatime.com/badge/user/bb48951c-a1a6-4802-96ce-16ca388c81f7/project/2b909a93-a0c4-4fef-b6cf-f1e3d6db5721.svg)](https://wakatime.com/badge/user/bb48951c-a1a6-4802-96ce-16ca388c81f7/project/2b909a93-a0c4-4fef-b6cf-f1e3d6db5721)
 </a>
 <br>
  
