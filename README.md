@@ -10,8 +10,6 @@
 <p align='center'>
  
  <div align="center"> 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SourceAura.SourceAura)
 ![wakatime](https://wakatime.com/badge/user/bb48951c-a1a6-4802-96ce-16ca388c81f7/project/2b909a93-a0c4-4fef-b6cf-f1e3d6db5721.svg)](https://wakatime.com/badge/user/bb48951c-a1a6-4802-96ce-16ca388c81f7/project/2b909a93-a0c4-4fef-b6cf-f1e3d6db5721)
  
 
