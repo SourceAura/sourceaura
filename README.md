@@ -1,7 +1,4 @@
 <!-- Profile Picture and Title -->
-<div align="center">
-  <img width="70%" height="430px" src="https://private-user-images.githubusercontent.com/13864703/307819715-87abbd56-9866-484c-a6e1-3d327cde1cbe.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg5NTY2ODgsIm5iZiI6MTcwODk1NjM4OCwicGF0aCI6Ii8xMzg2NDcwMy8zMDc4MTk3MTUtODdhYmJkNTYtOTg2Ni00ODRjLWE2ZTEtM2QzMjdjZGUxY2JlLmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyNlQxNDA2MjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yOWY2ZmNlYWI1MTYxMDU1YTMwODcwYmM1MGYzZjllYzg1MzA2NjdiMDZiOWYyZWIyNjhmMWJiZDZiMmUyNGIxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.jlJNUW21tDNCx-kGWjFaMNuhKD3QzU-WdZ2OZ4KQjiI" alt="Avatar" />
-</div>
 
 <h1 align="center">
   <span> 🌹 </span>
