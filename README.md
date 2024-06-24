@@ -37,11 +37,7 @@
 </p>
 <br>
 
-
-![my stats](https://github-readme-stats.vercel.app/api?username=sourceaura&show_icons=true&theme=transparent)
-
-![my stats](https://github-readme-stats.vercel.app/api?username=sourceaura&show_icons=true&theme=transparent)
-
+![my stats](https://sourcauras-github-readme-stats.vercel.app/api?username=sourceaura&show_icons=true&theme=transparent)
 
 <br>
 <!-- Current Activities -->
