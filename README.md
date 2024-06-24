@@ -36,6 +36,10 @@
   I'm usually writing poetry 🖊, painting 🎨, or practicing guitar 🎸. 
 </p>
 <br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+<br>
 <!-- Current Activities -->
 <h2 align="center"> Current Activities </h2>
 <ul>
