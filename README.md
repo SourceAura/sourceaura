@@ -37,7 +37,11 @@
 </p>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+![my stats](https://github-readme-stats.vercel.app/api?username=sourceaura&show_icons=true&theme=transparent)
+
+![my stats](https://github-readme-stats.vercel.app/api?username=sourceaura&show_icons=true&theme=transparent)
+
 
 <br>
 <!-- Current Activities -->
