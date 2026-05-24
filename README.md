@@ -1,7 +1,7 @@
 <!-- Profile Header -->
-<h1 align="center">🌹 SourceAura 🌹</h1>
+<h1 align="center">SourceAura</h1>
 <p align="center">
-  <em>“Rooted in LaRosa, architecting the future.”</em>
+  <em>Systems Architect. Digital Entropy. Foundational Design.</em>
 </p>
 
 <!-- The Essence -->
@@ -15,19 +15,19 @@
 <!-- Introduction -->
 <div align="center">
   My name is SourceAura. <br>
-  Thank you for taking the time to view my GitHub Profile 🙏 
+  I build where the architecture meets the void.
 </div>
 
 <!-- About Me -->
 <h2 align="center"> About Me </h2>
 <p align="center">
-  I design systems that bridge the gap between abstract AI capabilities and grounded, performant architecture. With over a decade of hands-on, self-directed engineering, I specialize in building Linux-native environments, complex data-node visualizations, and high-performance web stacks.
+  I design systems that operate at the intersection of high-performance engineering and digital entropy. With over a decade of hands-on, self-directed systems architecture, I specialize in building Linux-native environments, shader-driven data visualizations, and optimized web-application stacks.
 </p>
 <p align="center">
-  I believe in <strong>accessibility</strong>, <strong>technical integrity</strong>, and <strong>high-agency development</strong>. My work is an act of legacy—I build to sustain, to optimize, and to honor the source.
+  My work is defined by the Euthymia framework—a pursuit of structured balance within complex, chaotic digital environments. I prioritize <strong>technical integrity</strong>, <strong>lean performance</strong>, and <strong>high-agency execution</strong>.
 </p>
 <p align="center">
-  When I'm not architecting systems, you’ll find me writing poetry 🖊, painting 🎨, or practicing guitar 🎸.
+  Beyond the terminal, I focus on poetry, visual composition, and acoustic resonance.
 </p>
 
 <br>
@@ -37,8 +37,9 @@
 <div align="center">
   <ul>
     <li>🔭 <strong>Systems:</strong> Developing <em>Noctalia</em>, a Wayland-native desktop shell.</li>
-    <li>📈 <strong>Data:</strong> Architecting <em>Panoptis</em>, a high-performance cross-platform analytics engine (Astro/Bun/SQLite).</li>
-    <li>🤖 <strong>AI:</strong> Researching mechanistic interpretability & adversarial robustness in frontier models.</li>
+    <li>📈 <strong>Data:</strong> Architecting <em>Panoptis</em>, a high-performance cross-platform analytics engine.</li>
+    <li>🌐 <strong>Entropy:</strong> Constructing <em>Euthymia</em>—an exploration of digital entropy and algorithmic synthesis.</li>
+    <li>🤖 <strong>AI:</strong> Researching mechanistic interpretability & adversarial robustness.</li>
   </ul>
 </div>
 
