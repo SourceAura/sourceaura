@@ -1,5 +1,4 @@
 <!-- Profile Header -->
-<h1 align="center">SourceAura</h1>
 <p align="center">
   <em>Systems Architect. Digital Entropy. Foundational Design.</em>
 </p>
@@ -48,7 +47,10 @@
 <!-- Architectural Toolkit -->
 <h2 align="center"> Architectural Toolkit </h2>
 <p align="center">
-  <strong>Languages & Tools:</strong> Bun | Astro.js | SQLite | C++ | Qt6/QML | Bash | Linux
+  <strong>Languages & Frameworks:</strong> Python | TypeScript | Solidity | Node.js | Bun | Astro.js | Tailwind CSS
+</p>
+<p align="center">
+  <strong>Systems & Visualization:</strong> SQLite | C++ | Qt6/QML | Bash | Linux
 </p>
 <p align="center">
   <strong>Philosophy:</strong> <em>Performance is a feature. Bloat is a failure of design.</em>
