@@ -1,65 +1,68 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=SourceAura;Architecting+the+Void;Euthymia+Framework" alt="SourceAura" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=INIT+SOURCEAURA_OS;SYSTEM_ENTROPY_STABLE;ACCESSING+VOID..." alt="Boot Sequence" />
 </div>
 
 <p align="center">
-  <em>Systems Architect. Digital Entropy. Foundational Design.</em>
-</p>
-
-<p align="center">
-  🫀 • 🫁 • 🧠
-  <br>
-  <em>Heart. Voice. Mind.</em>
+  <code>>_ 01001000 01100101 01100001 01110010 01110100</code><br>
+  <code>>_ 01010110 01101111 01101001 01100011 01100101</code><br>
+  <code>>_ 01001101 01101001 01101110 01100100</code>
 </p>
 
 ---
 
-<div align="center">
-  <strong>My name is SourceAura. I build where the architecture meets the void.</strong>
-</div>
+<h3 align="center"> 📜 SYSTEM_CORE_LOG </h3>
 
-<br>
+<details open>
+  <summary><code>>_ RUNNING: identity_manifest.sh</code></summary>
+  <p align="center">
+    <strong>SourceAura</strong>: Systems Architect. Digital Entropy. Foundational Design. 
+    <br><em>I build where the architecture meets the void.</em>
+  </p>
+</details>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Research & Development</h3>
-<p align="center"><em>The deliberate, secure expansion of intelligence architectures.</em></p>
-<ul>
-  <li>🔭 <b>Systemic Integrity:</b> <code>[INIT]</code> Linux-native OS stability & Wayland shell engineering.</li>
-  <li>📈 <b>Algorithmic Interpretability:</b> <code>[SCAN]</code> Mapping digital entropy in complex systems.</li>
-  <li>🌐 <b>Safe Scaling:</b> <code>[EXEC]</code> Sandboxing frameworks & control-room logic.</li>
-  <li>🤖 <b>Alignment Architecture:</b> <code>[CORE]</code> Mechanistic interpretability of frontier models.</li>
-</ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Architectural Toolkit</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white" />
-        <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
-      </div>
-      <p align="center"><em>Performance is a feature. Bloat is a failure of design.</em></p>
-    </td>
-  </tr>
-</table>
-
-<h3 align="center">Active Environments</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourceaura&theme=radical&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourceaura&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-<br>
-
-<div align="center">
-  <strong>Seeking high-leverage collaboration in AI Safety & Systems Architecture.</strong>
+<details open>
+  <summary><code>>_ RUNNING: research_subsystems.sh</code></summary>
   <br>
-  <em>Let’s build something that lasts.</em>
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <li>🔭 <b>Systemic Integrity:</b> Linux-native OS stability.</li>
+        <li>📈 <b>Algorithmic Interpretability:</b> Mapping digital entropy.</li>
+      </td>
+      <td width="50%" valign="top">
+        <li>🌐 <b>Safe Scaling:</b> Sandboxing & control-room logic.</li>
+        <li>🤖 <b>Alignment Architecture:</b> Mechanistic internal analysis.</li>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<details>
+  <summary><code>>_ RUNNING: toolkit_initialization.sh</code></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white" />
+    <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
+  </p>
+</details>
+
+---
+
+<h3 align="center"> 🔐 SECURITY_GATE: ACCESS_RESTRICTED </h3>
+
+<div align="center">
+  <code>>_ STATUS: CLEARANCE_REQUIRED</code>
+  <br>
+  <em>The Lapidary Project remains encrypted for unauthorized users.</em>
+  <br>
+  <a href="https://github.com/SourceAura/lapidary"><b>[ ATTEMPT_DECRYPTION ]</b></a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sourceaura&theme=radical&show_icons=true&hide_border=true" />
 </div>
