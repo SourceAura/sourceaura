@@ -1,57 +1,35 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=SourceAura;Architecting+Flow;Building+for+Safety" />
+  <h3>SourceAura</h3>
+  <p><i>Systems Architect • Digital Entropy • Foundational Design</i></p>
+  <p>🫀 • 🫁 • 🧠</p>
 </div>
 
-<p align="center">🫀 • 🫁 • 🧠</p>
+---
 
-<!-- BENTO BOX GRID (INVISIBLE BORDERS) -->
-<table align="center" width="800" border="0">
-  <!-- ROW 1: ABOUT -->
-  <tr>
-    <td colspan="2" style="padding: 20px;" align="center">
-      <h3>About</h3>
-      <code>const SourceAura = {<br>
-        &nbsp;&nbsp;role: "Systems Architect",<br>
-        &nbsp;&nbsp;focus: ["AI Safety", "Entropy Mapping", "Foundational Design"],<br>
-        &nbsp;&nbsp;ethos: "Performance via lean design",<br>
-        &nbsp;&nbsp;contact: "sourceaura@proton.me"<br>
-        };</code>
-    </td>
-  </tr>
-  
-  <!-- ROW 2: RESEARCH & TOOLS -->
-  <tr>
-    <td width="40%" valign="middle" style="padding: 20px;" align="center">
-      <h3>Research</h3>
-      <ul style="list-style-type: none; padding: 0;">
-        <li>🔭 Systemic Integrity</li>
-        <li>📈 Algorithmic Entropy</li>
-        <li>🌐 Safe Scaling</li>
-        <li>🤖 Alignment Architecture</li>
-      </ul>
-    </td>
-    <td width="60%" valign="middle" style="padding: 20px;" align="center">
-      <h3>Toolkit</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white" />
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <code>const Profile = { role: "Architect", email: "sourceaura@proton.me" }</code>
+</p>
+
+### 🔭 Research 
+*   **Systemic Integrity** — Linux-native stability & Wayland shell engineering.
+*   **Algorithmic Entropy** — Mapping digital noise in complex intelligence.
+*   **Safe Scaling** — Sandboxing frameworks & control logic.
+*   **Alignment** — Mechanistic interpretability of frontier models.
+
+### 🛠 Toolkit
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+</div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourceaura&theme=react&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sourceaura&theme=transparent&show_icons=true&hide_border=true&text_color=FFFFFF&icon_color=FFFFFF" />
 </div>
