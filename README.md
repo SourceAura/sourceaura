@@ -4,11 +4,11 @@
 
 <p align="center">🫀 • 🫁 • 🧠</p>
 
-<!-- BENTO BOX GRID -->
-<table align="center" width="800">
-  <!-- ROW 1: MISSION & CODE PREVIEW -->
+<!-- BENTO BOX GRID (INVISIBLE BORDERS) -->
+<table align="center" width="800" border="0">
+  <!-- ROW 1: ABOUT -->
   <tr>
-    <td colspan="2" style="padding: 20px;">
+    <td colspan="2" style="padding: 20px;" align="center">
       <h3>About</h3>
       <code>const SourceAura = {<br>
         &nbsp;&nbsp;role: "Systems Architect",<br>
@@ -21,15 +21,17 @@
   
   <!-- ROW 2: RESEARCH & TOOLS -->
   <tr>
-    <td width="40%" valign="top" style="padding: 20px;">
-      <ul>
+    <td width="40%" valign="middle" style="padding: 20px;" align="center">
+      <h3>Research</h3>
+      <ul style="list-style-type: none; padding: 0;">
         <li>🔭 Systemic Integrity</li>
         <li>📈 Algorithmic Entropy</li>
         <li>🌐 Safe Scaling</li>
         <li>🤖 Alignment Architecture</li>
       </ul>
     </td>
-    <td width="60%" valign="top" style="padding: 20px;">
+    <td width="60%" valign="middle" style="padding: 20px;" align="center">
+      <h3>Toolkit</h3>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
@@ -48,4 +50,8 @@
   </tr>
 </table>
 
-<!-- PROJECTS SECTION -->
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sourceaura&theme=react&show_icons=true&hide_border=true" />
+</div>
