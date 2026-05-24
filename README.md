@@ -51,14 +51,3 @@
 </table>
 
 <!-- PROJECTS SECTION -->
-<div align="center">
-  <h3>Active Projects</h3>
-  <p><i>Building tools to map the complexity of our digital future.</i></p>
-  <p><b>Panoptis</b> &nbsp;•&nbsp; <b>Euthymia</b> &nbsp;•&nbsp; <b>Lapidary</b></p>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourceaura&theme=react&show_icons=true&hide_border=true" />
-</div>
