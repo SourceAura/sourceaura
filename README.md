@@ -1,60 +1,61 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F8F8FF&center=true&vCenter=true&width=500&height=50&lines=INIT+SOURCEAURA_SYSTEM;ENTROPY_ANALYSIS_ACTIVE;ARCHITECTING_THE_VOID" alt="System Ready" />
-</div>
-
-<p align="center">
-  <code>01001000 01100101 01100001 01110010 01110100</code> • 
-  <code>01010110 01101111 01101001 01100011 01100101</code> • 
-  <code>01001101 01101001 01101110 01100100</code>
-</p>
-
----
-
-<div align="center">
-  <strong>My name is SourceAura. I build where the architecture meets the void.</strong>
+  <h1>SourceAura</h1>
+  <p><em>Architecting systems. Finding flow.</em></p>
 </div>
 
 <br>
 
-<h3 align="center"> 📜 SYSTEM_DIAGNOSTIC: EUTHYMIA_V1 </h3>
-
 <div align="center">
-  <details open>
-    <summary><code>>_ RUNNING: integrity_check.sh</code></summary>
-    <table align="center">
-      <tr>
-        <th align="left">MODULE</th>
-        <th align="center">STATUS</th>
-      </tr>
-      <tr>
-        <td>Systemic_Integrity</td>
-        <td><code>[OPERATIONAL]</code></td>
-      </tr>
-      <tr>
-        <td>Entropy_Mapping</td>
-        <td><code>[ANALYZING]</code></td>
-      </tr>
-      <tr>
-        <td>Safe_Scaling</td>
-        <td><code>[READY]</code></td>
-      </tr>
-      <tr>
-        <td>Alignment_Core</td>
-        <td><code>[ACTIVE]</code></td>
-      </tr>
-    </table>
-  </details>
+  <p>I build at the intersection of AI safety and low-level systems. My work is focused on the pursuit of technical balance—creating high-performance environments that remain intuitive, performant, and stable.</p>
 </div>
 
 <br>
 
-<details>
-  <summary><code>>_ RUNNING: ls_projects.sh</code></summary>
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔭 Research & Focus</h3>
+      <p>My work is a dedicated effort toward the safe, deliberate scaling of intelligence architectures.</p>
+      <ul>
+        <li><b>Systemic Integrity:</b> Linux-native OS stability.</li>
+        <li><b>Entropy Mapping:</b> Algorithmic interpretability.</li>
+        <li><b>Safe Scaling:</b> Sandboxing & control-room logic.</li>
+        <li><b>Alignment:</b> Mechanistic model internals.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠 Toolkit</h3>
+      <p>The core primitives I use to bring ideas into the physical world:</p>
+      <p>
+        <code>Python</code> <code>TypeScript</code> <code>Bun</code> <code>Solidity</code><br>
+        <code>Node.js</code> <code>Astro.js</code> <code>Tailwind</code> <code>SQLite</code><br>
+        <code>C++</code> <code>Qt6/QML</code> <code>Bash</code> <code>Linux</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
-```bash
-[+] Panoptis_Eng  [STABLE]        // High-performance analytics
-[+] Euthymia_Env  [ENTROPY_MODE]  // Algorithmic synthesis
-[+] SourceAura_OS [KERNEL_READY]  // Personal environment foundation
-[+] Lapidary      [ENCRYPTED]     // Core architectural research
+<br>
 
->_
+<div align="center">
+  <h3>✨ Projects</h3>
+  <p><i>Building tools to map the complexity of our digital future.</i></p>
+  
+  <p><b>Panoptis</b> — Cross-platform analytics engine.</p>
+  <p><b>Euthymia</b> — Research framework for algorithmic entropy.</p>
+  <p><b>Lapidary</b> — Foundation for high-integrity systems research.</p>
+</div>
+
+<br>
+
+<div align="center">
+  <p>Seeking high-leverage collaboration in AI Safety & Systems Architecture.</p>
+  <p><i>Let's build something that lasts.</i></p>
+  <p><b>sourceaura@email.com</b></p>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sourceaura&theme=react&show_icons=true&hide_border=true&count_private=true" />
+</div>
