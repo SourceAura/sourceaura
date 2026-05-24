@@ -10,15 +10,17 @@
   <code>const Profile = { role: "Architect", email: "sourceaura@proton.me" }</code>
 </p>
 
-### 🔭 Research
-<code>const Research = {<br>
-&nbsp;&nbsp;integrity: "Linux-native stability & Wayland engineering",<br>
-&nbsp;&nbsp;entropy: "Mapping digital noise in complex intelligence",<br>
-&nbsp;&nbsp;scaling: "Sandboxing frameworks & control logic",<br>
-&nbsp;&nbsp;alignment: "Mechanistic interpretability of frontier models"<br>
-};</code>
+<div align="center">
+  <code>const Research = {<br>
+  &nbsp;&nbsp;integrity: "Linux-native stability & Wayland engineering",<br>
+  &nbsp;&nbsp;entropy: "Mapping digital noise in complex intelligence",<br>
+  &nbsp;&nbsp;scaling: "Sandboxing frameworks & control logic",<br>
+  &nbsp;&nbsp;alignment: "Mechanistic interpretability of frontier models"<br>
+  };</code>
+</div>
 
-### 🛠 Toolkit
+<br>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
