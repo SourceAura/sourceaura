@@ -1,68 +1,60 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=INIT+SOURCEAURA_OS;SYSTEM_ENTROPY_STABLE;ACCESSING+VOID..." alt="Boot Sequence" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F8F8FF&center=true&vCenter=true&width=500&height=50&lines=INIT+SOURCEAURA_SYSTEM;ENTROPY_ANALYSIS_ACTIVE;ARCHITECTING_THE_VOID" alt="System Ready" />
 </div>
 
 <p align="center">
-  <code>>_ 01001000 01100101 01100001 01110010 01110100</code><br>
-  <code>>_ 01010110 01101111 01101001 01100011 01100101</code><br>
-  <code>>_ 01001101 01101001 01101110 01100100</code>
+  <code>01001000 01100101 01100001 01110010 01110100</code> • 
+  <code>01010110 01101111 01101001 01100011 01100101</code> • 
+  <code>01001101 01101001 01101110 01100100</code>
 </p>
 
 ---
 
-<h3 align="center"> 📜 SYSTEM_CORE_LOG </h3>
-
-<details open>
-  <summary><code>>_ RUNNING: identity_manifest.sh</code></summary>
-  <p align="center">
-    <strong>SourceAura</strong>: Systems Architect. Digital Entropy. Foundational Design. 
-    <br><em>I build where the architecture meets the void.</em>
-  </p>
-</details>
-
-<details open>
-  <summary><code>>_ RUNNING: research_subsystems.sh</code></summary>
-  <br>
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <li>🔭 <b>Systemic Integrity:</b> Linux-native OS stability.</li>
-        <li>📈 <b>Algorithmic Interpretability:</b> Mapping digital entropy.</li>
-      </td>
-      <td width="50%" valign="top">
-        <li>🌐 <b>Safe Scaling:</b> Sandboxing & control-room logic.</li>
-        <li>🤖 <b>Alignment Architecture:</b> Mechanistic internal analysis.</li>
-      </td>
-    </tr>
-  </table>
-</details>
-
-<details>
-  <summary><code>>_ RUNNING: toolkit_initialization.sh</code></summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white" />
-    <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
-  </p>
-</details>
-
----
-
-<h3 align="center"> 🔐 SECURITY_GATE: ACCESS_RESTRICTED </h3>
-
 <div align="center">
-  <code>>_ STATUS: CLEARANCE_REQUIRED</code>
-  <br>
-  <em>The Lapidary Project remains encrypted for unauthorized users.</em>
-  <br>
-  <a href="https://github.com/SourceAura/lapidary"><b>[ ATTEMPT_DECRYPTION ]</b></a>
+  <strong>My name is SourceAura. I build where the architecture meets the void.</strong>
 </div>
 
 <br>
 
+<h3 align="center"> 📜 SYSTEM_DIAGNOSTIC: EUTHYMIA_V1 </h3>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourceaura&theme=radical&show_icons=true&hide_border=true" />
+  <details open>
+    <summary><code>>_ RUNNING: integrity_check.sh</code></summary>
+    <table align="center">
+      <tr>
+        <th align="left">MODULE</th>
+        <th align="center">STATUS</th>
+      </tr>
+      <tr>
+        <td>Systemic_Integrity</td>
+        <td><code>[OPERATIONAL]</code></td>
+      </tr>
+      <tr>
+        <td>Entropy_Mapping</td>
+        <td><code>[ANALYZING]</code></td>
+      </tr>
+      <tr>
+        <td>Safe_Scaling</td>
+        <td><code>[READY]</code></td>
+      </tr>
+      <tr>
+        <td>Alignment_Core</td>
+        <td><code>[ACTIVE]</code></td>
+      </tr>
+    </table>
+  </details>
 </div>
+
+<br>
+
+<details>
+  <summary><code>>_ RUNNING: ls_projects.sh</code></summary>
+
+```bash
+[+] Panoptis_Eng  [STABLE]        // High-performance analytics
+[+] Euthymia_Env  [ENTROPY_MODE]  // Algorithmic synthesis
+[+] SourceAura_OS [KERNEL_READY]  // Personal environment foundation
+[+] Lapidary      [ENCRYPTED]     // Core architectural research
+
+>_
