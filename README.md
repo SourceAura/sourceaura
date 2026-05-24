@@ -1,65 +1,63 @@
-<!-- Profile Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=SourceAura;Architecting+the+Void;Euthymia+Framework" alt="SourceAura" />
+</div>
+
 <p align="center">
   <em>Systems Architect. Digital Entropy. Foundational Design.</em>
 </p>
 
-<!-- The Essence -->
 <p align="center">
   🫀 • 🫁 • 🧠
-</p>
-<p align="center">
+  <br>
   <em>Heart. Voice. Mind.</em>
 </p>
 
-<!-- Introduction -->
+---
+
 <div align="center">
-  My name is SourceAura. <br>
-  I build where the architecture meets the void.
-</div>
-
-<!-- About Me -->
-<h2 align="center"> About Me </h2>
-<p align="center">
-  I design systems that operate at the intersection of high-performance engineering and digital entropy. With over a decade of hands-on, self-directed systems architecture, I specialize in building Linux-native environments, shader-driven data visualizations, and optimized web-application stacks.
-</p>
-<p align="center">
-  My work is defined by the Euthymia framework—a pursuit of structured balance within complex, chaotic digital environments. I prioritize <strong>technical integrity</strong>, <strong>lean performance</strong>, and <strong>high-agency execution</strong>.
-</p>
-<p align="center">
-  Beyond the terminal, I focus on poetry, visual composition, and acoustic resonance.
-</p>
-
-<br>
-
-<!-- Current Focus -->
-<h2 align="center"> Current Focus </h2>
-<div align="center">
-  <p><em>The deliberate, secure expansion of intelligence architectures.</em></p>
-  <ul>
-    <li>🔭 <strong>Systemic Integrity:</strong> Engineering robust, Linux-native environments that ensure model stability at the OS layer.</li>
-    <li>📈 <strong>Algorithmic Interpretability:</strong> Building data-aggregation engines to map the "digital entropy" of black-box models.</li>
-    <li>🌐 <strong>Safe Scaling:</strong> Implementing control-room logic and sandboxing frameworks to prevent adversarial drift in frontier AI.</li>
-    <li>🤖 <strong>Alignment Architecture:</strong> Researching mechanistic interpretability to bridge the gap between abstract model internals and human-verifiable behavior.</li>
-  </ul>
+  <strong>My name is SourceAura. I build where the architecture meets the void.</strong>
 </div>
 
 <br>
 
-<!-- Architectural Toolkit -->
-<h2 align="center"> Architectural Toolkit </h2>
-<p align="center">
-  <strong>Languages & Frameworks:</strong> Python | TypeScript | Solidity | Node.js | Bun | Astro.js | Tailwind CSS
-</p>
-<p align="center">
-  <strong>Systems & Visualization:</strong> SQLite | C++ | Qt6/QML | Bash | Linux
-</p>
-<p align="center">
-  <strong>Philosophy:</strong> <em>Performance is a feature. Bloat is a failure of design.</em>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Research & Development</h3>
+      <p align="center"><em>The deliberate, secure expansion of intelligence architectures.</em></p>
+      <ul>
+        <li>🔭 <b>Systemic Integrity:</b> Linux-native OS stability & Wayland shell engineering.</li>
+        <li>📈 <b>Algorithmic Interpretability:</b> Mapping digital entropy in complex systems.</li>
+        <li>🌐 <b>Safe Scaling:</b> Sandboxing frameworks & control-room logic.</li>
+        <li>🤖 <b>Alignment Architecture:</b> Mechanistic interpretability of frontier models.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Architectural Toolkit</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white" />
+        <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
+      </div>
+      <p align="center"><em>Performance is a feature. Bloat is a failure of design.</em></p>
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">Active Environments</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sourceaura&theme=radical&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourceaura&layout=compact&theme=radical&hide_border=true" />
+</div>
 
 <br>
 
-<!-- Contact/CTA -->
 <div align="center">
   <strong>Seeking high-leverage collaboration in AI Safety & Systems Architecture.</strong>
   <br>
