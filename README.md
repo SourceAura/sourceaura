@@ -10,14 +10,12 @@
   <code>const Profile = { role: "Architect", email: "sourceaura@proton.me" }</code>
 </p>
 
-<div align="center">
-  <code>const Research = {<br>
-  &nbsp;&nbsp;integrity: "Linux-native stability & Wayland engineering",<br>
-  &nbsp;&nbsp;entropy: "Mapping digital noise in complex intelligence",<br>
-  &nbsp;&nbsp;scaling: "Sandboxing frameworks & control logic",<br>
-  &nbsp;&nbsp;alignment: "Mechanistic interpretability of frontier models"<br>
-  };</code>
-</div>
+<code>const Research = {<br>
+&nbsp;&nbsp;integrity: "Linux-native stability & Wayland engineering",<br>
+&nbsp;&nbsp;entropy: "Mapping digital noise in complex intelligence",<br>
+&nbsp;&nbsp;scaling: "Sandboxing frameworks & control logic",<br>
+&nbsp;&nbsp;alignment: "Mechanistic interpretability of frontier models"<br>
+};</code>
 
 <br>
 
