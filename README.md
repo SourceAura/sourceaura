@@ -1,53 +1,63 @@
-<!-- Profile Picture and Title -->
+<!-- Profile Header -->
+<h1 align="center">🌹 SourceAura 🌹</h1>
+<p align="center">
+  <em>“Rooted in LaRosa, architecting the future.”</em>
+</p>
 
-<h1 align="center">
-  <span> 🌹 </span>
-   <br>
-    <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> -->
-  <h1 align="center">Namaste, Fellow Coders...</h1>
-</h1>
-
-<!-- Introduction -->
-<div align='center'>
-  <div size='16px' align="center"> My name is SourceAura. 
-    <br>
-    Thank You for taking the time to view my GitHub Profile 🙏 
-  </div>
-</div>
-
-<!-- About Me Section -->
-<h2 align="center"> About Me  </h2>
+<!-- The Essence -->
 <p align="center">
   🫀 • 🫁 • 🧠
 </p>
 <p align="center">
-  🌱  
+  <em>Heart. Voice. Mind.</em>
+</p>
+
+<!-- Introduction -->
+<div align="center">
+  My name is SourceAura. <br>
+  Thank you for taking the time to view my GitHub Profile 🙏 
+</div>
+
+<!-- About Me -->
+<h2 align="center"> About Me </h2>
+<p align="center">
+  I design systems that bridge the gap between abstract AI capabilities and grounded, performant architecture. With over a decade of hands-on, self-directed engineering, I specialize in building Linux-native environments, complex data-node visualizations, and high-performance web stacks.
 </p>
 <p align="center">
-  An ever budding Software Designer. 
+  I believe in <strong>accessibility</strong>, <strong>technical integrity</strong>, and <strong>high-agency development</strong>. My work is an act of legacy—I build to sustain, to optimize, and to honor the source.
 </p>
 <p align="center">
-  With an eye for multi-user accessibility. - ♿️
+  When I'm not architecting systems, you’ll find me writing poetry 🖊, painting 🎨, or practicing guitar 🎸.
 </p>
-<p align="center"> 
-  When I'm not exploring code and things. 
-</p>
-<p align="center">
-  I'm usually writing poetry 🖊, painting 🎨, or practicing guitar 🎸. 
-</p>
+
 <br>
 
-<!-- too be continued github stats -->
-<!-- ![my stats](https://sourcauras-github-readme-stats.vercel.app/api?username=sourceaura&show_icons=true&theme=transparent) -->
+<!-- Current Focus -->
+<h2 align="center"> Current Focus </h2>
+<div align="center">
+  <ul>
+    <li>🔭 <strong>Systems:</strong> Developing <em>Noctalia</em>, a Wayland-native desktop shell.</li>
+    <li>📈 <strong>Data:</strong> Architecting <em>Panoptis</em>, a high-performance cross-platform analytics engine (Astro/Bun/SQLite).</li>
+    <li>🤖 <strong>AI:</strong> Researching mechanistic interpretability & adversarial robustness in frontier models.</li>
+  </ul>
+</div>
 
 <br>
-<!-- Current Activities -->
-<h2 align="center"> Current Activities </h2>
-<ul>
-  <li>🔭 Building a personal web-app using Javascript.</li>
-  <li>🌱 Studying more about Neural Networks, APIs, & all things Data Science.</li>
-  <li>🤝 Looking to collaborate on anything involving the expansion of technologies.</li>
-</ul>
 
+<!-- Architectural Toolkit -->
+<h2 align="center"> Architectural Toolkit </h2>
+<p align="center">
+  <strong>Languages & Tools:</strong> Bun | Astro.js | SQLite | C++ | Qt6/QML | Bash | Linux
+</p>
+<p align="center">
+  <strong>Philosophy:</strong> <em>Performance is a feature. Bloat is a failure of design.</em>
+</p>
 
+<br>
 
+<!-- Contact/CTA -->
+<div align="center">
+  <strong>Seeking high-leverage collaboration in AI Safety & Systems Architecture.</strong>
+  <br>
+  <em>Let’s build something that lasts.</em>
+</div>
