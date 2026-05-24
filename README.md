@@ -34,11 +34,12 @@
 <!-- Current Focus -->
 <h2 align="center"> Current Focus </h2>
 <div align="center">
+  <p><em>The deliberate, secure expansion of intelligence architectures.</em></p>
   <ul>
-    <li>🔭 <strong>Systems:</strong> Developing <em>Noctalia</em>, a Wayland-native desktop shell.</li>
-    <li>📈 <strong>Data:</strong> Architecting <em>Panoptis</em>, a high-performance cross-platform analytics engine.</li>
-    <li>🌐 <strong>Entropy:</strong> Constructing <em>Euthymia</em>—an exploration of digital entropy and algorithmic synthesis.</li>
-    <li>🤖 <strong>AI:</strong> Researching mechanistic interpretability & adversarial robustness.</li>
+    <li>🔭 <strong>Systemic Integrity:</strong> Engineering robust, Linux-native environments that ensure model stability at the OS layer.</li>
+    <li>📈 <strong>Algorithmic Interpretability:</strong> Building data-aggregation engines to map the "digital entropy" of black-box models.</li>
+    <li>🌐 <strong>Safe Scaling:</strong> Implementing control-room logic and sandboxing frameworks to prevent adversarial drift in frontier AI.</li>
+    <li>🤖 <strong>Alignment Architecture:</strong> Researching mechanistic interpretability to bridge the gap between abstract model internals and human-verifiable behavior.</li>
   </ul>
 </div>
 
