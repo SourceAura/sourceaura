@@ -6,9 +6,7 @@
 
 ---
 
-<p align="center">
-  <code>const Profile = { role: "Architect", email: "sourceaura@proton.me" }</code>
-</p>
+<code>const Profile = { role: "Architect", email: "sourceaura@proton.me" }</code>
 
 <code>const Research = {<br>
 &nbsp;&nbsp;integrity: "Linux-native stability & Wayland engineering",<br>
@@ -27,6 +25,8 @@
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </div>
 
