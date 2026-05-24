@@ -22,7 +22,6 @@
   <!-- ROW 2: RESEARCH & TOOLS -->
   <tr>
     <td width="40%" valign="top" style="padding: 20px;">
-      <h3>Research</h3>
       <ul>
         <li>🔭 Systemic Integrity</li>
         <li>📈 Algorithmic Entropy</li>
@@ -31,7 +30,6 @@
       </ul>
     </td>
     <td width="60%" valign="top" style="padding: 20px;">
-      <h3>Full Stack Toolkit</h3>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
