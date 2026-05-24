@@ -24,13 +24,13 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Research & Development</h3>
-      <p align="center"><em>The deliberate, secure expansion of intelligence architectures.</em></p>
-      <ul>
-        <li>🔭 <b>Systemic Integrity:</b> Linux-native OS stability & Wayland shell engineering.</li>
-        <li>📈 <b>Algorithmic Interpretability:</b> Mapping digital entropy in complex systems.</li>
-        <li>🌐 <b>Safe Scaling:</b> Sandboxing frameworks & control-room logic.</li>
-        <li>🤖 <b>Alignment Architecture:</b> Mechanistic interpretability of frontier models.</li>
-      </ul>
+<p align="center"><em>The deliberate, secure expansion of intelligence architectures.</em></p>
+<ul>
+  <li>🔭 <b>Systemic Integrity:</b> <code>[INIT]</code> Linux-native OS stability & Wayland shell engineering.</li>
+  <li>📈 <b>Algorithmic Interpretability:</b> <code>[SCAN]</code> Mapping digital entropy in complex systems.</li>
+  <li>🌐 <b>Safe Scaling:</b> <code>[EXEC]</code> Sandboxing frameworks & control-room logic.</li>
+  <li>🤖 <b>Alignment Architecture:</b> <code>[CORE]</code> Mechanistic interpretability of frontier models.</li>
+</ul>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Architectural Toolkit</h3>
